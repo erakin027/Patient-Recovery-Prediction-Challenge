@@ -1,2 +1,2 @@
 # Patient-Recovery-Prediction-Challenge
-Predict recovery index of the patients
+To build predictive models to estimate a patient’s Recovery Index (integer from 10 to 100) by building on the training dataset, and be able to predict the recovery index of the testing dataset which has all previous features except the recovery index – in other words a classic Regression problem. Our goal is to develop, tune and compare regression models and deliver the best-performing model for predicting Recovery Index.
